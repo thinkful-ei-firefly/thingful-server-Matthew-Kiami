@@ -28,11 +28,24 @@
     "mocha": "^5.2.0",
     "nodemon": "^1.18.9",
     "postgrator-cli": "^3.1.0",
-    "supertest": "^3.3.0"
+    "supertest": "^3.4.2"
   },
   "contributors": [
     "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
     "Joshua Reade Harris <jharris@thinkful.com>"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-firefly/thingful-client-Matthew-Kiami.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-firefly/thingful-client-Matthew-Kiami/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-firefly/thingful-client-Matthew-Kiami#readme"
 }
